@@ -1,8 +1,8 @@
 [submodule "PineScript"]
 	path = PineScript
 	url = https://github.com/ArunKBhaskar/PineScript
-[submodule "PineScript-Laboratory"]
-	path = PineScript-Laboratory
+[submodule "Pinescript-Laboratory"]
+	path = Pinescript-Laboratory
 	url = https://github.com/capissimo/Pinescript-Laboratory
 [submodule "tradingview-custom-indicators"]
     path = tradingview-custom-indicators
